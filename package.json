@@ -1,7 +1,7 @@
 {
   "name": "project_data",
   "version": "1.0.0",
-  "description": "",
+  "description": "By utilizing the provided template, you will be able to create your JSON server repository, which can be deployed on render.com\r --------------",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -21,6 +21,6 @@
   "dependencies": {
     "cors": "^2.8.5",
     "json-serve": "^0.1.0",
-    "json-server": "^0.17.1"
+    "json-server": "^0.17.4"
   }
 }
