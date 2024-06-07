@@ -7,7 +7,7 @@
       "organisation": "Compassionate Hearts Initiative",
       "date": "2024-05-23",
       "location": "Split",
-      "image": "/public/assets/community-outreach.jpg",
+      "image": "/assets/community-outreach.jpg",
       "volunteersForActivity": [
         {
           "id": "klfzji",
@@ -41,7 +41,7 @@
       "organisation": "Pets For Everyone",
       "date": "2024-05-21",
       "location": "Dubrovnik",
-      "image": "/public/assets/activity-img.png",
+      "image": "/assets/activity-img.png",
       "volunteersForActivity": [
         {
           "id": "ignplmpcb",
@@ -67,7 +67,7 @@
       "organisation": "Good Brothers",
       "date": "2024-05-22",
       "location": "Dubrovnik",
-      "image": "/public/assets/teaching-assistant.jpg",
+      "image": "/assets/teaching-assistant.jpg",
       "volunteersForActivity": [
         {
           "id": "hvfjrzta",
@@ -86,7 +86,7 @@
       "organisation": "Big Hearts",
       "date": "2024-05-18",
       "location": "Zagreb",
-      "image": "/public/assets/event-cordinator.jpg",
+      "image": "/assets/event-cordinator.jpg",
       "volunteersForActivity": [
         {
           "id": "gqmhlmwg",
@@ -112,7 +112,7 @@
       "organisation": "Worldwide Goods",
       "date": "2024-05-22",
       "location": "Šibenik",
-      "image": "/public/assets/fundraising.jpg",
+      "image": "/assets/fundraising.jpg",
       "volunteersForActivity": [
         {
           "id": "ktxfokhe",
